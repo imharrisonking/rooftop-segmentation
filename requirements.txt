@@ -2,3 +2,4 @@ mercantile==1.2.1
 python-dotenv==1.0.0
 ipykernel==6.27.1
 scikit-image==0.22.0
+opencv-python==4.8.1.78
