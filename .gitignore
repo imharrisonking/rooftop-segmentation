@@ -1,5 +1,6 @@
 data/raw-inputs/*
 models/*
+cache/*
 .vscode
 *.tif
 .env
